@@ -7,15 +7,15 @@
 
 - 🔭 I am currently employed at a healthcare company with continental operations, while also dedicating my weekends to personal projects.
 
-- ⚙️ Constantly working with **Node.js, AWS, Nginx, Docker, PM2, Bull, Nf Draw*.**
+- ⚙️ Constantly working with Node.js, AWS, Nginx, Docker, PM2, Bull, Nf Draw.
 
-- 🌱 Currently learning **React native and Micro Frontends.**
+- 🌱 Currently learning React native and Micro Frontends.
 
-- 💬 Ask me about **js, css, handlebars, graphql, apollo federated, express, bull background jobs.**
+- 💬 Ask me about js, css, handlebars, graphql, apollo federated, express, bull background jobs.
 
 - 📫 You can contact me at **eng.victoreustaquio@gmail.com.**
 
-- ⚡**I also like the design. Photoshop and Illustrator are cards in my the deck.**
+- ⚡I also like the design. Photoshop and Illustrator are cards in my the deck.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Victor Eustáquio</h1>
 <h3 align="center">Full Stack developer</h3>
 
+- 🎓 Computer engineer.
+
+- 📰 Bachelor’s thesis **Real-time communication (Socket.io), Hall effect sensoring and microcontrollers (Esp32).**
+
 - 🔭 I am currently employed at a healthcare company with continental operations, while also dedicating my weekends to personal projects.
 
 - ⚙️ Constantly working with **Node.js, AWS, Nginx, Docker, PM2, Bull, Nf Draw*.**
 
 - 🌱 Currently learning **React native and Micro Frontends.**
-
-- 🎓 Computer engineer with a final work based on **Real-time communication (Socket.io), Hall effect sensoring and microcontrollers (Esp32).**
-
-- 📰 Bachelor’s thesis **Real-time communication (Socket.io), Hall effect sensoring and microcontrollers (Esp32).**
 
 - 💬 Ask me about **js, css, handlebars, graphql, apollo federated, express, bull background jobs.**
 

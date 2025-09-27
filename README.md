@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Victor Eustáquio</h1>
 <h3 align="center">Full Stack developer</h3>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I am currently employed at a healthcare company with continental operations, while also dedicating my weekends to personal projects.
 
-- ⚙️ Constantly working with **Node.js, AWS, Nginx, Docker, PM2, Bull, Nf Draw**
+- ⚙️ Constantly working with **Node.js, AWS, Nginx, Docker, PM2, Bull, Nf Draw*.**
 
-- 🌱 Currently learning **React native and Micro Frontends**
+- 🌱 Currently learning **React native and Micro Frontends.**
 
-- 🎓 Finishing my computer engineering course with a final work based on **Real-time communication (Socket.io), Hall effect sensoring and microcontrollers (Esp32).**
+- 🎓 Computer engineer with a final work based on **Real-time communication (Socket.io), Hall effect sensoring and microcontrollers (Esp32).**
 
-- 💬 Ask me about **js, css, handlebars, express, bull background jobs**
+- 📰 Bachelor’s thesis **Real-time communication (Socket.io), Hall effect sensoring and microcontrollers (Esp32).**
 
-- 📫 You can contact me at **eng.victoreustaquio@gmail.com**
+- 💬 Ask me about **js, css, handlebars, graphql, apollo federated, express, bull background jobs.**
+
+- 📫 You can contact me at **eng.victoreustaquio@gmail.com.**
 
 - ⚡ Fun fact **I also like the design. Photoshop and Illustrator are cards in my the deck.**
 

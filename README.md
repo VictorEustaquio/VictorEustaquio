@@ -15,7 +15,7 @@
 
 - 📫 You can contact me at **eng.victoreustaquio@gmail.com.**
 
-- ⚡ Fun fact **I also like the design. Photoshop and Illustrator are cards in my the deck.**
+- ⚡**I also like the design. Photoshop and Illustrator are cards in my the deck.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
